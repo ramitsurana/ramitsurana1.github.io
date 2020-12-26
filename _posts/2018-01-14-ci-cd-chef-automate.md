@@ -6,6 +6,7 @@ author: Ramit Surana
 category: Chef CI/CD Jenkins Habitat Automate
 tags: Jenkins Continous Delivery Continous Integration Syntax Chef Habitat Automate
 excerpt: "Using Chef Tools to automate your CI/CD Journey"
+permalink: /posts/ci-cd-chef-automate/
 ---
 
 Hallo Freunde (German)(Hello Friends),As [Martin Fowler](http://martinfowler.com) correctly explains continous delivery:

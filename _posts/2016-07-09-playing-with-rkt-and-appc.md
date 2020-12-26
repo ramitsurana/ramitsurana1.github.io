@@ -7,6 +7,7 @@ tags: [rkt aci docker]
 category: coreos rkt containers
 description: "Exploring the rkt container ecosystem"
 comments: true
+permalink: /posts/playing-with-rkt-and-appc/
 ---
 
 Evolution is an ongoing process. In the containers spectrum it has been a regular custom to experiment with new stuff and make it better with time. Saying so one of the coolest evolving projects is the [rkt][8] project by [Coreos][11] guys. It is a substitute of the famous [docker][6] container project and uses different methodology than the [docker][6] project. So, I began exploring and found out that its a really interesting approach on building containers.

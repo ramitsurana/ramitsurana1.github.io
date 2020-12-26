@@ -6,6 +6,7 @@ author: Ramit Surana
 tags: docker orchestration automation devops kubernetes
 category: orchestration docker google etcd coreos
 excerpt: "A brief study on Kubernetes and its components"
+permalink: /posts/genesis-kubernetes/
 ---
 
 Although Docker has made quite a reputation,

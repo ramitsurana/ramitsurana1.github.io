@@ -6,7 +6,7 @@ author: Ramit Surana
 tags: software architecture serverless microservices
 category: software architectures
 excerpt: "Exploring different types of enterprise class software architectures"
-comments: true
+permalink: /posts/the-6-paradigms-of-software-architectures/
 ---
 
 Bonjour les amis (French) (Hello Friends).In this small,introductory and interesting post on software architectures,I am going to explore some very interesting software architectures used by industries.The software world is revolutionizing like anything.The need of people from delivering solutions have changed.Priorities of software companies have changed.The need of the Hour relies on scalability,resillency and delivery.Building software architectures to better correlate and solve today's problems helps us in defining the future roles of software in the tech world.In this post I have explored some of these software architecture's.Hope you find it a worthy read and Happy New Year 2017 :)

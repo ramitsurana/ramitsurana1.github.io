@@ -6,7 +6,7 @@ author: Ramit Surana
 tags: docker cloud containers
 category: docker containers
 description: "New project for the new era"
-comments: true
+permalink: /posts/introducing-turbo-for-docker/
 ---
 
 Minasan, kon'nichiwa (Japense)(In English - Hello Friends). Hope you folks are having an awesome day at work ! For the past sometime I have been learning and exploring golang.It is an awesome language becoming popular like python and java.Following the reason to implement golang in some of my project's.I started to implement golang and try golang in the most efficient manner as possible.This year I decided to start this project following my process of learning.As much like as every developer I Hope you find them useful and worth contributing.

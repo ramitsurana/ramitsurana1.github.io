@@ -5,6 +5,7 @@ date: 2017-01-11
 author: Ramit Surana
 tags: P2P Networking BlockChain Bitcoin Dapps OpenBazar
 excerpt: "Building modern day digital transaction systems"
+permalink: /posts/banking-world/
 ---
 
 Today's the internet is almost everything.But making things fast,secure and for banks, the perfect term would be micro-payments.Doing this type of payments requires a completely new transformation for the banks.This gives the open space for a new term called as FinTech or Financial Technology.We will be discussing more and more such terms in the below post.So hope you guys enjoy it !

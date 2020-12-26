@@ -6,6 +6,7 @@ author: Ramit Surana
 tags: communication messaging devops
 category: messaging social network
 excerpt: "Communication and management done effectively."
+permalink: /posts/slack-and-trello/
 ---
 
 There's a reason DevOps culture values effective communication and collaboration so highly. In an industry where distributed offices full of crucial roles are the norm — and one where even departments within the same buildings tend to distrust one another — any improvement in the way people interact is bound to have some positive results, especially when so many moving parts need to work together for a product to come in on time and under budget. - [Source][12]

@@ -6,6 +6,7 @@ author: Ramit Surana
 tags: containers tips openshift
 category: Introduction
 excerpt: "Containers usage tips and tricks."
+permalink: /posts/containers-in-production/
 ---
 
 Hello World ! Today our industry is surrounded by Containers.Every other company wants to build something on top of the containers.The containers have taken a rapid replacement with virtualization.There are several initiatives that are being taken by new age startups and guys who are enthusiastic about the idea.
