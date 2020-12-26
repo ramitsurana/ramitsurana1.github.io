@@ -9,7 +9,7 @@ excerpt: "Building CI/CD pipeline with kubernetes"
 comments: true
 ---
 
-Hola amigos !!(*In English - Hello Friends !!*) Hope you are having a jolly good day ! In terms of [Martin Fowler](http://www.martinfowler.com),Continous Integration can be defined as
+Hola amigos !!(*In English - Hello Friends !!*) Hope you are having a jolly good day ! In terms of [Martin Fowler](http://www.martinfowler.com), Continous Integration can be defined as
 "Continuous Integration is a software development practice where members of a team integrate their work frequently, usually each person integrates at least daily - leading to multiple integrations per day. Each integration is verified by an automated build (including test) to detect integration errors as quickly as possible. Many teams find that this approach leads to significantly reduced integration problems and allows a team to develop cohesive software more rapidly."
 
 In this rather interesting piece of article we are going to discuss and explore two amazing and rather interesting pieces technology.One i.e. Jenkins,a popular Continous Integration/Deployment tool and Second i.e. Kubernetes.As an added bonus we are also going to discover fabric8 an awesome tool for microservices platform.So let's get started, 
@@ -42,7 +42,20 @@ Similarly while using [rkt][9] containers a.k.a rktnetes.Here's the architecture
 
 Setting up [kubernetes][11] on your host machine is an easy task.In case you wish to try out on your local machine I would recommend you to try out [minikube][8].In case you wish to the best of [kubernetes][11],please refer to .Here is a quick follow up guide to get you started with setting up [minikube][8] on your local machine :
 
-<script src="https://gist.github.com/ramitsurana/21a137d1007980cadb98253b43a35ead.js"></script>
+<!-- <script src="https://gist.github.com/ramitsurana/21a137d1007980cadb98253b43a35ead.js"></script> -->
+
+```
+# Ensure Installation of kubectl first
+# Visit for http://kubernetes.io/docs/getting-started-guides/binary_release/
+
+# For downloading any prerequisites
+# Visit https://github.com/kubernetes/minikube/blob/master/DRIVERS.md
+
+
+# Download & install Minikube
+
+curl -Lo minikube https://storage.googleapis.com/minikube/releases/v0.7.1/minikube-linux-amd64 && chmod +x minikube && sudo mv minikube /usr/local/bin/
+```
 
 An amazing work in the direction of using [jenkins](7) and [kubernetes](11) has been done by [carlossg](https://twitter.com/carlossg).He has built an awesome [kubernetes][11] plugin for [jenkins][7]. Using this plugin you can easily start using [jenkins][7] with [kubernetes][11] directly.Also to provide users with more easy options to configure.He has built a [jenkins][7] image which by default contains the [kubernetes][11] plugin.This image is available at [docker hub](https://hub.docker.com/r/csanchez/jenkins-kubernetes/).In the next steps we are going to fetch this image from docker hub and create a volume /var/jenkins_home for storing all your [jenkins][7] data.
 
