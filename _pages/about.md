@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Hi! Ny Name is Ramit Surana. I am a Devops Engineer. I love to read books and basketball.
+Hi! My Name is Ramit Surana. I am a Devops Engineer. I love to read books and basketball.
