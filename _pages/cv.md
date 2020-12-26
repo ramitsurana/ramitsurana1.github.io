@@ -23,7 +23,7 @@ Education
 * Bachelor of Technology (B.Tech)
   * The 4-year degree program started in April 2013
   * Completed B.Tech in Electronics and Communication field from B.K. Birla Institute of Engineering and Technology.
-  * Published Paper on “Deploying a Cognitive Solution using IBM Watson on Bluemix” International Research Journal of Engineering and Technology (IRJET) Volume: 04 Issue: 04 | April 2017.
+  * Published Paper on “Deploying a Cognitive Solution using IBM Watson on Bluemix” International Research Journal of Engineering and Technology (IRJET) \\ Volume: 04 Issue: 04 April 2017.
 
 Work experience
 ======
@@ -58,13 +58,13 @@ Skills
 
 Certifications
 ======
-* AWS Solutions Architect - Associate | Certification Number: F3FSGJ11JF4QQCW1
+* AWS Solutions Architect - Associate \\ Certification Number: F3FSGJ11JF4QQCW1
 * Hashicorp Certified: Terraform Associate
-* Cloudbees Jenkins - Fundamentals | Certification Number: ewqd26sqh4no
-* Cloudbees Jenkins Pipeline - Fundamentals | Certification Number: f39rtrxby28x
-* DeepLearning.AI TensorFlow Developer Certificate (4 Courses) | Certification Number: PDMVV3JC3DCM 
-* DeepLearning.AI Generative Adversarial Networks Specialization (GANs) | Certification Number: PDMVV3JC3DCM 
-* Data Engineering with Google Cloud Professional Certificate | Certification Number: YNPQ5TVEH86X
+* Cloudbees Jenkins - Fundamentals \\ Certification Number: ewqd26sqh4no
+* Cloudbees Jenkins Pipeline - Fundamentals \\ Certification Number: f39rtrxby28x
+* DeepLearning.AI TensorFlow Developer Certificate (4 Courses) \\ Certification Number: PDMVV3JC3DCM 
+* DeepLearning.AI Generative Adversarial Networks Specialization (GANs) \\ Certification Number: PDMVV3JC3DCM 
+* Data Engineering with Google Cloud Professional Certificate \\ Certification Number: YNPQ5TVEH86X
 
 Projects
 =====
