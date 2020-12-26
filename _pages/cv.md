@@ -95,24 +95,3 @@ Projects
   * The aim of the project is to provide the viewers of the client with an illustrative, well-defined theory & example based tutorial on the topic for its viewers worldwide.
   * The tutorial covered 9 different chapters with various subcategories, starting from the basics to the advanced usage of consul.
   * As the author, I have described & explained each of the different components of Consul, architecture, working, and its usage in the cloud industry. The project is live ​here
-<!-- Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams -->
