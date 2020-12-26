@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: archive
 title: "Achieving CI/CD with Kubernetes"
 date: 2016-08-01
 author: Ramit Surana

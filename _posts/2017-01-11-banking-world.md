@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: archive
 title: "Using P2P networking for digital banking transactions"
 date: 2017-01-11
 author: Ramit Surana

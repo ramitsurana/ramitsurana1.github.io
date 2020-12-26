@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: archive
 title: "The 6 paradigms of software architectures"
 date: 2016-12-30
 author: Ramit Surana

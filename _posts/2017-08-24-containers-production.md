@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: archive
 title: "Containers in Production"
 date: 2017-08-24
 author: Ramit Surana

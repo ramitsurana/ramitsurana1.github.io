@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: archive
 title: "Introducing Turbo for Docker"
 date: 2016-09-01
 author: Ramit Surana

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: archive
 title: "The Pro Programmer Philosophy and some random thoughts"
 date: 2019-01-22
 author: Ramit Surana

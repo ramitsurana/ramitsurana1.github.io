@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: archive
 title: "Automating your CI/CD with Chef Automate & Habitat - Part 1"
 date: 2018-01-14
 author: Ramit Surana

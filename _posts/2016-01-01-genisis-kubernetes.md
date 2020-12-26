@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: archive
 title: "The genisis of Kubernetes"
 date: 2016-01-01
 author: Ramit Surana

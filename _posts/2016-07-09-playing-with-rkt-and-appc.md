@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: archive
 title: "Playing with rkt and appc"
 date: 2016-07-09
 author: Ramit Surana
